@@ -7,7 +7,7 @@ This repository contains all the Machine Learning internship tasks and projects 
 ### Level 1
 
 * Task 1: Data Preprocessing for Machine Learning ✅
-
+* Task 2: Build a Simple Linear Regression Model ✅
 ## Tools Used
 
 * Python
